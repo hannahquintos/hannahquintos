@@ -2,7 +2,8 @@
 
 *Web Development student* at [Humber College](https://mediaarts.humber.ca/programs/web-development.html "Humber College Web Development")
 
-![Profile Image](/_readme/profileIllustration.png)
+<!--![Profile Image](/_readme/profileIllustration.png)-->
+<img src="/_readme/profileIllustration.png" width="200" height="200">
 
 <!--
 **hannahquintos/hannahquintos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
