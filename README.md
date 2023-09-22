@@ -5,6 +5,12 @@
 <!--![Profile Image](/_readme/profileIllustration.png)-->
 <img src="/_readme/profileIllustration.png" width="200" height="200">
 
+currently learning:
+  - HTML
+  - CSS
+  - Javascript
+  - SQL
+  - C#
 <!--
 **hannahquintos/hannahquintos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
